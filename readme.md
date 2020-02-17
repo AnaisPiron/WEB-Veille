@@ -1,5 +1,5 @@
-#Veille 
-- [muzli : chrome extension](chrome-extension://glcipcfhmopcgidicgdociohdoicpdfc/index.html?button)
+# Veille 
+- [muzli : chrome extension](https://muz.li/)
 - [Stéphanie Walter](https://stephaniewalter.design/)
 - [tutsplus](https://design.tutsplus.com/courses)
 - [dribble](https://dribbble.com/)
