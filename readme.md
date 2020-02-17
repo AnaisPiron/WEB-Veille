@@ -1,5 +1,5 @@
 #Veille 
-- [muzli](chrome-extension://glcipcfhmopcgidicgdociohdoicpdfc/index.html?button)
+- [muzli : chrome extension](chrome-extension://glcipcfhmopcgidicgdociohdoicpdfc/index.html?button)
 - [Stéphanie Walter](https://stephaniewalter.design/)
 - [tutsplus](https://design.tutsplus.com/courses)
 - [dribble](https://dribbble.com/)
